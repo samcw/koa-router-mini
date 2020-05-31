@@ -1,0 +1,8 @@
+{
+  "name": "koa-router-mini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/samcw/koa-router-mini.git",
+  "author": "Samcw",
+  "license": "MIT"
+}
